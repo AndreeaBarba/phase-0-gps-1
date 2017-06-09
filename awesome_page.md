@@ -1,3 +1,4 @@
+Adding new text for merge conflict.
 **BOLD TEXT**
 *italic*
 >block of words
