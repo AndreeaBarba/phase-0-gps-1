@@ -1,5 +1,5 @@
-This is a new sentence.
 
+This is a new sentence.
 **BOLD TEXT**
 *italic*
 >block of words
