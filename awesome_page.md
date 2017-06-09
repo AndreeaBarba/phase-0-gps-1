@@ -1,4 +1,5 @@
-Adding new text for merge conflict.
+
+This is a new sentence.
 **BOLD TEXT**
 *italic*
 >block of words
